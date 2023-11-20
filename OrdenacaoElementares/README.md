@@ -45,7 +45,6 @@
  - custos maiores e mais simples
  - lidam bem com arrays e listas encadeadas
  - analise das constantes da função custo e o tamanho da entrada:
-    - f1(n) = n²
-    
+    - f1(n) = n² 
     - f2(n) = x • n + y
  
