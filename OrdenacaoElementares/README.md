@@ -2,7 +2,7 @@
 
  - [BubbleSort](https://github.com/acamposs/EDA/blob/main/OrdenacaoElementares/bubble_Interativo.c)
  - [SelectionSort](https://github.com/acamposs/EDA/blob/main/OrdenacaoElementares/Selection.c)
- - [InsertionSort]
+ - [InsertionSort](https://github.com/acamposs/EDA/blob/main/OrdenacaoElementares/insertion.c)
  - [ShellSort]
 
  ### Regras do jogo
